@@ -6,6 +6,16 @@
 
 #### This is heading 4
 
+1. This is **bullet** 1
+1. This is ~~bullet~~ 1
+1. This is bullet 1
+1. This is bullet 1
+1. This is bullet 1
+    - This is sub-bullet
+    - This is sub-bullet
+    - This is sub-bullet
+    
+
 My first project
 
 ```C
