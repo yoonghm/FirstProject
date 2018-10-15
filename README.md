@@ -1,4 +1,4 @@
-# FirstProject
+# FirstProjectbyFinn
 
 ## This is heading 2
 
